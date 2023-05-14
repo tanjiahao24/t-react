@@ -56,6 +56,7 @@ function childReconciler(shoudTrackEffects: boolean) {
 				);
 			}
 		}
+		return null;
 	};
 }
 
